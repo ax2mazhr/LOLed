@@ -14,7 +14,7 @@ With a combination of software and hardware, lights are triggered by the followi
 
 
 ## Requirements
-* Pycharm w/ openCV
+* PyCharm w/ openCV, numpy & pytesseract
 * Arduino IDE
 * LEDs 
 * Arduino 
