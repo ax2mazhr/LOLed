@@ -1,7 +1,7 @@
 
 ## Description
 
-League of Legends reactive immersion LED Lights based on-screen game action recognition using openCV
+League of Legends reactive immersion LED Lights based on-screen game action recognition using openCV.
 
 With a combination of software and hardware, lights are triggered by the following events:
   * Team Drake kills (Cloud / Ocean / Infernal / Mountain)
