@@ -133,6 +133,8 @@ while "Screen capturing":
         lastHp = copy.deepcopy(hp)
 
 
+    #Health reaction is disabled since it spasms alot when OCR makes mistakes, i am sure there is an easy fix... but it works
+    
     # Heal
     # if hp[0] - lastHp[0] > 0 and hp[0] - lastHp[0] > 0.2 * hp[1]:
     #     arduino.write("2,0,255,50.".encode())
