@@ -1,6 +1,7 @@
+# *By: Ahmed Amgad :: http://ax2mproductions.com :: https://github.com/ax2mazhr/LOLed *
+                            
 import copy
 import re
-
 import cv2
 import numpy as np
 import time
