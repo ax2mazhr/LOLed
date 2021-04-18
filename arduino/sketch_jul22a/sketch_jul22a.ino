@@ -1,3 +1,5 @@
+// *By: Ahmed Amgad :: http://ax2mproductions.com :: https://github.com/ax2mazhr/LOLed *
+
 #define redPin 9
 #define greenPin 6
 #define bluePin 5
