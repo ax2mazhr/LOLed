@@ -29,8 +29,7 @@ League of Legends reactive immersion LED Lights based on-screen game action reco
 
 ## More info
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RRQId2x32yo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+* Watch: https://www.youtube.com/embed/RRQId2x32yo
 * The arduino code uses plain pwm signals for the led strip and the FastLED library to control the other addressable LEDs 
 
 
